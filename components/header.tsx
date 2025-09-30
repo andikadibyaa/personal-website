@@ -16,7 +16,7 @@ export function Header() {
           <Linkedin className="w-5 h-5 md:w-4 md:h-4" />
         </a>
         <a
-          href="https://github.com/andikadibya"
+          href="https://github.com/andikadibyaa"
           target="_blank"
           rel="noopener noreferrer"
           className="w-11 h-11 md:w-9 md:h-9 flex items-center justify-center rounded-lg bg-background/50 backdrop-blur-sm border border-border/50 text-muted-foreground hover:text-primary hover:border-primary/50 hover:bg-primary/5 transition-all duration-300 hover:scale-110 active:scale-95"
@@ -32,7 +32,7 @@ export function Header() {
           <Mail className="w-5 h-5 md:w-4 md:h-4" />
         </a>
         <a
-          href="https://medium.com/@andikadibya"
+          href="https://medium.com/@andikadibya76"
           target="_blank"
           rel="noopener noreferrer"
           className="w-11 h-11 md:w-9 md:h-9 flex items-center justify-center rounded-lg bg-background/50 backdrop-blur-sm border border-border/50 text-muted-foreground hover:text-primary hover:border-primary/50 hover:bg-primary/5 transition-all duration-300 hover:scale-110 active:scale-95"

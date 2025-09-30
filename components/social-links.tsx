@@ -13,7 +13,7 @@ const socialLinks = [
   {
     name: "GitHub",
     icon: Github,
-    href: "https://github.com/andikadibya",
+    href: "https://github.com/andikadibyaa",
     color: "hover:text-foreground",
   },
   {
@@ -25,7 +25,7 @@ const socialLinks = [
   {
     name: "Medium",
     icon: FileText,
-    href: "https://medium.com/@andikadibya",
+    href: "https://medium.com/@andikadibya76",
     color: "hover:text-foreground",
   },
 ]

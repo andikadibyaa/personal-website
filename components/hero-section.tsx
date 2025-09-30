@@ -32,10 +32,10 @@ export function HeroSection() {
             </span>
           </h1>
           <p className="text-xl sm:text-2xl md:text-3xl text-muted-foreground mb-6 md:mb-8 font-light px-4">
-            Data Analyst • AI Engineer • Statistics Graduate
+            Data • AI • Machine Learning
           </p>
           <p className="text-base sm:text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed px-4">
-            Transforming data into actionable insights with machine learning and statistical analysis
+            Transforming Data Into Actionable Insights with Machine Learning and Statistical Analysis
           </p>
         </div>
 

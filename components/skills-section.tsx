@@ -11,9 +11,9 @@ const skills = [
   "SAS",
   "Machine Learning",
   "Statistical Analysis",
-  "Data Visualization",
-  "Predictive Modeling",
-  "Fraud Detection",
+  "Data Science",
+  "Data Analysis",
+  "Backend Development",
   "AI Integration",
 ]
 
