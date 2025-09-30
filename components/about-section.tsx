@@ -42,12 +42,6 @@ export function AboutSection() {
               leadership experience from managing projects and teams.
             </p>
             <p className="text-pretty">
-              Currently working as an AI Engineer Intern at Salam Pacific Indonesia Lines, I've developed fraud
-              detection systems that resulted in 8 billion rupiah in company savings, created price prediction systems
-              for 1,000+ material types, and integrated predictive models with AI systems in collaboration with IT
-              teams.
-            </p>
-            <p className="text-pretty">
               I'm eager to apply a data-driven approach and build a career in data, machine learning, and artificial
               intelligence. My expertise spans statistical analysis, predictive modeling, data visualization, and AI
               system integration.
